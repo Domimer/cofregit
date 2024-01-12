@@ -1,0 +1,75 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  
+}
+h1 {
+  color: #bcc6c9;
+
+}
+ 
+h2 {
+  color: #333;
+     
+}
+
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #549db3
+  
+  
+}
+
+nav ul li {
+  display: inline-block;
+  margin-right: 10px;
+   
+}
+
+nav ul li a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #b7e0dc; 
+     
+}
+
+/* Estilos específicos */
+header {
+  background-color: #80dbf0;
+  padding: 20px;
+  text-align: center;
+}
+
+main {
+  padding: 20px;
+  
+}
+
+section {
+  margin-bottom: 20px;
+}
+
+form label, form input, form textarea {
+  display: block;
+  margin-bottom: 10px;
+  
+}
+
+footer {
+  background-color: #549db3;
+  padding: 10px;
+  text-align: center;
+}
+header{
+  
+  background-image:url(https://static.vecteezy.com/system/resources/previews/020/660/221/non_2x/illustration-of-kids-reading-book-vector.jpg);
+}
+
+
+
+  
